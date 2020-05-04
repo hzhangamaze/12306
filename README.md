@@ -16,8 +16,12 @@ selenium,splinter,bs4
 
 二、从百度文库上爬下自己想要的内容
 
+运行: python baiduwk_chrome_phone.py
+
 需要的Python库:
 
 selenium
+
+另外需要Chrome浏览器，并设置为手机版（移动版）界面
 
 建议知识储备:了解html语法
